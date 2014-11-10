@@ -1,9 +1,10 @@
-I am revoking my GPG keys for security & personal issues. 
+
+I am revoking my GPG keys for security & personal reasons. 
 The old key will continue to be valid for some time,
 but I prefer all new correspondance to be encrypted in the new key, and
 will be making all signatures going forward with the new key.
 
-This "revoking" document (or transition document if I may say) is signed 
+This transition document (or "revoking" document if I may say) is signed 
 with both keys to validate the transition.
 
 If you have signed my old key, I would appreciate signatures on my new
