@@ -14,11 +14,28 @@
 	John Ombagi (Troon) <jayombagi@gmail.com>
 	Fingerprint=CC89 97A6 1F78 304A 7D91  C27F 7B85 A886 AD3A 484C 
 
-### sig1.txt
+#### sig1.txt
  Signature of the gpg-transition.txt using the old key 0x192BA1E6D5E28EE0
 
-### sig2.txt 
+#### sig2.txt 
  Signature of the gpg-transition.txt using the new key 0x7b85a886ad3a484c
 
-### gpg-transition.txt
+#### gpg-transition.txt
  Contains info about the GPG transition/revocation.
+
+### UPdates
+
+To fetch the full new key from a public key server using GnuPG, run:
+
+```bash
+	gpg --keyserver keys.gnupg.net --recv-key 0x7B85A886AD3A484C
+```
+
+If you have already validated my old key, you can then validate that the
+new key is signed by my old key:
+
+```bash
+	gpg --check-sigs 0x7B85A886AD3A484C
+```
+
+
