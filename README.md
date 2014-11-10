@@ -11,7 +11,7 @@
 
 	pub  4096R/AD3A484C (0x7b85a886ad3a484c) 2014-11-10 
 	John Ombagi <ombagi@outlook.com>
-        John Ombagi (Troon) <jayombagi@gmail.com>
+	John Ombagi (Troon) <jayombagi@gmail.com>
 	Fingerprint=CC89 97A6 1F78 304A 7D91  C27F 7B85 A886 AD3A 484C 
 
 ### sig1.txt
